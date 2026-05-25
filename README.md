@@ -456,7 +456,7 @@ Potential future improvements include:
 Khanh
 
 GitHub:
-https://github.com/khanhdeptra1212
+https://github.com/LeNgocKhanh-AI
 
 Project Repository:
-https://github.com/khanhdeptra1212/Predicted-RUL-and-detect-anomaly-FD001-Nasa_Turbofan_engines-
+https://github.com/LeNgocKhanh-AI/Predicted-RUL-and-detect-anomaly-FD001-Nasa_Turbofan_engines-
